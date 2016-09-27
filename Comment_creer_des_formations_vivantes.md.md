@@ -7,9 +7,13 @@ Que ce soit pour la formation profesionnelle pour adulte ou l'enseignement à l'
 
 Ce système très rationnel en apparence crée pourtant des comportement tres irrationnels ou avec ces contraintes la connaissance est plus facilement transmises en silos et ou l'interdisciplinarité est plus difficile a mettre en oeuvre (une séquence complexe permettant l'acquisition de nombreux savoirs, savoirs-faire et savoir être) doit être argumentée a priori, rendant laborieux la création de telle séquence (dans ce contexte il est dur d'improviser et plus couteux de justifier le résultats et la mise en oeuvre que de mettre en oeuvre l'action elle-même).
 
+Comme le dise prudement certains formateurs de formateurs l'approche par objectifs a ses limites:
+- elle impose sa logique et sa programmation
+- elle néglige les apprentissages imprévus
+
 ## Architecture mortifère
 
-Comme un plan de maison qui doit être validé en maont par les autorités et utilisent des matériaux de constructions préfabriqués, ne permet pas une archoitecture vivante adaptée à la réalité du terrain et de ses habitants, ou au contexte local...
+Comme un plan de maison qui doit être validé en amont par les autorités et utilisent des matériaux de constructions préfabriqués, ne permet pas une architecture vivante adaptée à la réalité du terrain et de ses habitants, ou au contexte local...
 
 Comme un repas stérile préparé par une sociétée industrielle et réchaufé dans une barquette en plastique ne remplace par un repas cuisiné avec soin par une personne attentionné avec des produits frais...
 
@@ -33,11 +37,38 @@ la seule solution est d'apprendre à apprendre. Etre capable de remettre constam
 
 En effet le formateur seul ne peut maintenant pas être plus informés que le collectif de personnes qu'il forment.
 
-## Vers une formateur facilitateur
+## Vers un formateur facilitateur
 
 le role du formateur doit donc aujourd'hui eêtre moins un expert d'un sujet que celui d'un expert de la facilitation de l'apprentissage.
 
 
 ## Créer des architectures de co-apprentissage.
+Quand le formateur ne connait pas un sujet mieux que ses apprenants, mieux vaut d'appuyer sur leur connaissances et concevoir un environnement d'apprentissage mutuel soutenu par des outils numériques et créatifs.
 
+On crée ainsi une machine a apprendre ou mieux, a co-apprendre. En théorie si le format est très bon et maitrise bien sa démarche il peut ainsi devenir maitre ignorant et donner des formations où il ne connait rien, se limitant a créer l'espace-temps de co-apprentissage.
+
+En pratique si le groupe ets petit il est important que le formateur faciliateur:
+- créer des situation coopératives avec des experts (parfois distants)
+- soit lui même assez expert pour compléter le savoir amené par le groupe
+
+## Comment créer des formations vivantes ?
+
+Conscient de ce système et des failles du certains formateurs jouent sur deux plans, affichant certains objectifs sur les papiers et les modifiant avec la complicité des stagiaires, mais cette stratégie impose de se cacher alors que cela ne devrait pas etre le cas, l'approche de co-apprentissage étant beaucoup plus pertinente, puissante et légitime.
+
+Dans ce cas comment créer légitimement des formations vivantes
+
+## Le hack: formation apprendre à apprendre
+
+Pour rentrer dans les normes sans s'y enfermer l'idée est de proposer une formation apprendre à apprendre avec une trame qui se déclinerai dans n'importe quel contexte.
+
+Les objectifs serait de co-concevoir le dispositif pédagogique, ses outils d'évaluation
+
+## Idées en vrac
+Faire concevoir aux apprenants les outils d'évaluation
+auto-évaluation
+évaluation croisée
+
+
+
+Pour respecter les cadres conventionnels et rester dans les clous sans tomber dans la bétise et s'enfermer, il est possible de jouer sur les objectifs affichés.
 
