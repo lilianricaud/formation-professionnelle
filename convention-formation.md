@@ -123,6 +123,9 @@ M. [NOM DU FORMATEUR],
 
 
 
-## Fichier source téléchargeable
+# Fichier source téléchargeable
 
 [LIEN DOC OU GOOGLE DOC]
+
+# Réutilisation 
+- CC-BY-SA Lilian Ricaud
