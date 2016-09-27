@@ -2,13 +2,13 @@
 
 ---
 title: Convention de formation 
-description: Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour explicitement sous licence libre afin de permettre la réutilisation ultérieure des contenus co-créés par les stagiaires
+description: Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour que les contenus co-créés par les stagiaires au cours de la formation soient explicitement sous licence libre afin de permettre leur réutilisation ultérieure. 
 image_url: 
 ---
 
 -->
 
- Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour explicitement sous licence libre afin de permettre la réutilisation ultérieure des contenus co-créés par les stagiaires.
+ Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour que les contenus co-créés par les stagiaires au cours de la formation soient explicitement sous licence libre afin de permettre leur réutilisation ultérieure. 
 
 
 **convention  de formation professionnelle continue n°[CODE UNIQUE]**
@@ -63,8 +63,6 @@ Un espace d&#39;apprentissage personnel et partagé contenant des supports de co
 
 Ces supports de cours sont enrichis par les apprenants en collaboration avec le formateur tout au long de la formation via un processus de co-construction.
 
-
-
 - **Formateurs :** Lilian RICAUD, Formateur - membre de Kanopé
 - **Durée / dates:** total de 3 jours, soit 21h réparties sur 5 demi-journées [dates exactes]
 - **Lieux** : [LIEU DE LA FORMATION]
@@ -74,11 +72,9 @@ Ces supports de cours sont enrichis par les apprenants en collaboration avec le 
 - suivi à distance par le formateur, via Internet pendant 6 mois.
 - évaluation à 6 mois
 
+## Article 2 : Dispositions financières**
 
-
-**Article 2 : Dispositions financières**
-
-1. **a)****Le client, en contrepartie des actions de formation réalisées, s&#39;engage à verser à l&#39;organisme**, une somme correspondant aux frais de formation de [xxx] € TTC par journée, ainsi qu&#39;une somme forfaitaire de [xxx] € TTC pour frais de transport et de séjours, soit un total de soit [xxx]€ TTC au total sur présentation de facture à la fin de la formation en présence.
+**a)** **Le client, en contrepartie des actions de formation réalisées, s&#39;engage à verser à l&#39;organisme**, une somme correspondant aux frais de formation de [xxx] € TTC par journée, ainsi qu&#39;une somme forfaitaire de [xxx] € TTC pour frais de transport et de séjours, soit un total de soit [xxx]€ TTC au total sur présentation de facture à la fin de la formation en présence.
 
 **b)** L&#39;organisme de formation, en contrepartie des sommes reçues, s&#39;engage à réaliser toutes les actions prévues dans le cadre de la présente convention ainsi qu&#39;à fournir tout document et pièce de nature à justifier la réalité et la validité des dépenses de formation engagées à ce titre.
 
@@ -92,19 +88,19 @@ Paiement par virement libellé au nom de :
 
 [INFORMATIONS DE PAIEMENT, RIB]
 
-**Article 3 : Droits d&#39;auteur**
+## Article 3 : Droits d&#39;auteur
 
 Le client accepte que les contenus co-produits au cours du processus soient placés sous licence libre Creative Commons -Attribution - Partage dans les Mêmes Conditions 3.0, France  (CC BY-SA 3.0 FR).
 
-**Article 4 : Dédit ou abandon**
+## Article 4 : Dédit ou abandon
 
 En cas de résiliation de la présente convention par le client à moins de 8 jours francs avant le début d&#39;une des actions mentionnées à l&#39;annexe, l&#39;organisme retiendra sur le coût total, les sommes qu&#39;il aura réellement dépensées ou engagées pour la réalisation de l&#39;action.
 
-**Article 5 : Date d&#39;effet et durée de la convention**
+## Article 5 : Date d&#39;effet et durée de la convention
 
 La présente convention prend effet à compter à la date de signature pour une durée de 1 an.
 
-**Article 6 : Différends éventuels**
+## Article 6 : Différends éventuels
 
 Si une contestation ou un différend ne peuvent être réglés à l&#39;amiable, le Tribunal de Auch sera seul compétent pour se prononcer sur  le litige.
 
@@ -125,3 +121,8 @@ L&#39;Intervenant,
 
 M. [NOM DU FORMATEUR],
 
+
+
+## Fichier source téléchargeable
+
+[LIEN DOC OU GOOGLE DOC]
