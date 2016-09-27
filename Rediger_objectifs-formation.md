@@ -1,6 +1,20 @@
 
+## Pourquoi des objectifs
 
-## Comment rédiger les objectifs d'une formation
+L'objectif aide à : 
+- clarifier et communiquer le pourquoi de la formation
+- évaluer
+- améliorer
+
+Objectifs de:
+- moyen
+- sens
+
+## Limites de la pédagogie par objectifs
+- impose sa propre logique et sa programmation
+- néglige les apprentissages imprévus
+
+### Démarche de création d'une formation par objectifs
 
 1. Analyse des besoins
 2. Objectifs (But)
@@ -8,6 +22,14 @@
 4. Choix des méthodes
 5. Choix du formateur
 6. Evaluation compétences (savoirs, savoirs-faire, savoirs-être).
+
+
+## Comment rédiger les objectifs d'une formation
+
+Commencer par un verbe (Voir taxonomy de Bloom: https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom) et indiquer:
+- actions réalisées par les apprenants
+- conditions dans lesquelles la performance doit se manifester
+- critères de performance
 
 
 ## Différents types de savoirs et exemples d'objectifs
