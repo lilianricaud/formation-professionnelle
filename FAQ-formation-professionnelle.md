@@ -1,4 +1,17 @@
-## Points clés
+<!--
+
+---
+title: FAQ formation professionnelle
+description: Un tour d'horizon des points clés de la formation professionnelle sous forme de questions/réponses pour rendre la connaissance pratique et facilement actionable.
+image_url: 
+---
+
+-->
+
+> Un tour d'horizon des points clés de la formation professionnelle sous forme de questions/réponses pour rendre la connaissance pratique et facilement actionable.
+
+
+## A quoi sert une formation professionnelle ?
 
 Une formation est un enclenchement d'un processus d'appropriation des connaissances qui continuera après le temps de la formation.
 
