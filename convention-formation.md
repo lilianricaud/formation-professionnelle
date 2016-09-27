@@ -1,6 +1,14 @@
+<!--
 
+---
+title: Convention de formation 
+description: Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour explicitement sous licence libre afin de permettre la réutilisation ultérieure des contenus co-créés par les stagiaires
+image_url: 
+---
 
+-->
 
+ Un modèle de convention de formation utilisé dans la CAE Kanopé. Ce modèle a été modifié avec un droit d'auteur amendé pour explicitement sous licence libre afin de permettre la réutilisation ultérieure des contenus co-créés par les stagiaires.
 
 
 **convention  de formation professionnelle continue n°[CODE UNIQUE]**
