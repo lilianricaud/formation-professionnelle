@@ -1,4 +1,15 @@
 
+<!--
+
+---
+title: Modèle de feuille d'émargement
+description: Le modèle à faire signer par les stagiaires pour attester de leur présence en formation.
+image_url: 
+---
+
+-->
+
+
 Bandeau de la structure.
 
 Intitulé de l’action de formation
