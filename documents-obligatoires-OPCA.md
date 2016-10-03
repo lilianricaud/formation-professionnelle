@@ -4,6 +4,7 @@
 title: Documents obligatoires pour les OPCA
 description: Le financement de la formation professionnelle par les OPCA rend obligatoires un certains nombre de documents, en voici la liste.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
