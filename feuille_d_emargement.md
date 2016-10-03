@@ -1,5 +1,5 @@
 
-| Bandeau de la structure.|
+Bandeau de la structure.
 
 Intitulé de l’action de formation
 
@@ -28,9 +28,9 @@ Lieu de l’action de formation :
 |   |   |   |   |
 
 
-| Nom du formateur
+Nom du formateur
 
-Signature du (des) formateur(s) |
+Signature du (des) formateur(s)
 
 Fait à :						Signature et cachet de l’organisme de formation
 
