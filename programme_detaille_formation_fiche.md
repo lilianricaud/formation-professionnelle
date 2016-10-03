@@ -1,4 +1,12 @@
+<!--
 
+---
+title: Programme détaillé de formation - modèle de fiche
+description: Ce modèle sans formatage liste les éléments indispensables pour une fiche de programme détaillé de formation professionnelle.
+image_url: 
+---
+
+-->
 
 
 # Titre
