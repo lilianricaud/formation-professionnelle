@@ -12,7 +12,7 @@ Horaires de l’action de formation : matin de			et après-midi de
 Lieu de l’action de formation :			   
 
 
-|   |   | Signature du stagiaire |
+
 | Date  | Nom et prénom du participant | Séance du matin | Séance de l’après-midi |
 |---|---|---|---|
 |   |   |   |   |
