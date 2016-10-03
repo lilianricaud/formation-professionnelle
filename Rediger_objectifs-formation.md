@@ -4,6 +4,7 @@
 title: Comment rédiger des objectifs de formation
 description: Notes prises lors d'une formation de formateurs et annotées.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
