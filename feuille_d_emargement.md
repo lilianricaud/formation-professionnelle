@@ -13,7 +13,7 @@ Lieu de l’action de formation :
 
 
 
-| Date  | Nom et prénom du participant | Séance du matin | Séance de l’après-midi |
+| Date  | Nom et prénom du participant | Signature du stagiaire - Séance du matin | Séance de l’après-midi |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
