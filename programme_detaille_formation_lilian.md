@@ -109,7 +109,7 @@ Contact et renseignements: contact@lilianricaud.com
 
 -------
 
-A ajouter ou pas ?
+ > A ajouter ou pas ?
 
  ## Modalités de suivi et appréciation des résultats :
  - évaluation à chaud en fin de formation
@@ -125,3 +125,8 @@ A ajouter ou pas ?
 
 
 **Prise en charge : CPF avec code à rentrer, Plan formation ou autre.**
+
+
+## Modèle formaté
+
+Modèle formaté au format google doc: https://docs.google.com/document/d/1itLiELrH7rMDnZiDvbCk-sSuyULiQCg5hVzo-nagvyQ/edit#heading=h.qzwmqk76j190
