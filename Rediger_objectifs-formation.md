@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Comment rédiger des objectifs de formation
+description: Notes prises lors d'une formation de formateurs et annotées.
+ 
+---
+
+-->
+
 
 ## Pourquoi des objectifs
 
