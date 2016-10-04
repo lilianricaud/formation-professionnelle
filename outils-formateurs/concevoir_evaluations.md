@@ -4,6 +4,7 @@
 title: Evaluations
 description: Un tour d'horizon des différentes types d'évaluations et bonnes pratique spour la conception.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
