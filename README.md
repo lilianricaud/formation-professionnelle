@@ -1,20 +1,14 @@
 # Formation-professionnelle
 
+### Documents obligatoires
+
 Ce répertoire contient tous les documents nécessaires pour un formateur souhaitant proposer des formations agréées par les OPCA.
 
 Les contenus ont été developpés par un entrepreneur membre d'une coopérative d'activités et d'emplois mais pourront être utilisés dans d'autres contextes.
 
+## Outils pour le formateur
 
-# Contenus
-
-- Documents obligatoires OPCA
-- Modèle convention de formation
-- Comment rédiger ses objectifs pédagogiques
-- Comment créer ses supports documentaires
-- Modèle de feuilles de présence
-- Modèle d'attestation de fin de formation avec compétences associées 
-- Modèle d'attestation de remise des certificats/attestations
-- Comment évaluer une formation
+Ce répertoire contient des contenus pour aider les formateurs a mettre en place des formations, rédiger les objectifs pédagogiques, l'offre, ...
 
 # Réutilisation 
-- CC-BY-SA Lilian Ricaud
+- CC-BY-SA Archipel
