@@ -1,3 +1,15 @@
+<!--
+
+---
+title: comment créer des formations vivantes
+description: Des réflexions sur les limites imposées par les cadres rigides et les moyens de continuer à assurer des formations vivantes qui s'ajustent aux besoins.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+ > Des réflexions sur les limites imposées par les cadres rigides et les moyens de continuer à assurer des formations vivantes qui s'ajustent aux besoins.
 
 ## Un cadre pseudo-rationnel qui crée de l'irrationnel
 
