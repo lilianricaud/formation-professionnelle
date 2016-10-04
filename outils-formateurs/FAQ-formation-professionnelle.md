@@ -4,6 +4,7 @@
 title: FAQ formation professionnelle
 description: Un tour d'horizon des points clés de la formation professionnelle sous forme de questions/réponses pour rendre la connaissance pratique et facilement actionable.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
