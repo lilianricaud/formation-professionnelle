@@ -3,8 +3,8 @@
 ---
 title: Démarrage d'une formation
 description: les ingrédients/éléments à ne pas oublier pour démarrer le moment de formation.
-
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
