@@ -20,7 +20,7 @@ Ces documents sont interessant à réexploiter pour les stagiaires euxm-mêmes, 
 Une astuce que j'utilise pour vendre mes formations et faire accepter plus facilement la notion de commun consiste à prendre le prix acceptable pour le client et le formateur et majorer celui ci de 15% pour proposer deux tarifs:
 
 - un tarif "normal" (le tarif majoré)
-- un tarif "bien communs" avec une réduction de 15% si le client accpete que les contenus de formation soient mis sous licence libre CC-BY-SA.
+- un tarif "bien communs" avec une réduction de 15% si le client accepte que les contenus de formation soient mis sous licence libre CC-BY-SA.
 
 Par exemple une formation intra au tarif normal de 900€ / jour tombe à 765€ / jour.
 
