@@ -4,6 +4,7 @@
 title: Programme détaillé de formation - exemple de fiche lilian
 description: Ce modèle présente un exemple de formation donnée par lilian.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
