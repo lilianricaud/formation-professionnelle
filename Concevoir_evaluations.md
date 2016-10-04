@@ -8,6 +8,17 @@ image_url:
 
 -->
 
+## Questionnaire
+
+5 points forts
+questions compétences techniques, humaines, relationnelle.
+
+## Notes
+Expliquer pourquoi cette note.
+Contextualiser, expliquer, expliciter le positif, impact sur les personnes
+
+sert un but: feedback.
+
 ## Auto-évaluation
 
 
@@ -33,3 +44,7 @@ Les résultats sont analysés/lus sur un diagramme en radar
 
 - graphique en barres
 - graphique radar pour vue pluri-dimensionnelle
+
+## Idées
+
+Interessant de combiner auto-évaluation, évaluation croisée (par binome ou plusieurs pairs) et à la fin confronter à une référence via matrice visuelle type radar via l'usage de papier calque
