@@ -4,6 +4,7 @@
 title: Méthodes pédagogiques
 description: Un tour d'horizon des différentes méthodes pédagogiques.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
