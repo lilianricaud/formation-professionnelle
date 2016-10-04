@@ -5,6 +5,7 @@
 title: FAQ formation professionnelle
 description: Objectifs généraux, specifiques, modules, séquences, ... tour d'horizon des différents concepts utilisés en formation professionnelle...
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
