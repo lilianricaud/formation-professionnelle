@@ -3,7 +3,7 @@
 ---
 title: Attestation de présence
 description: modèle d'attestation de présence.
-image_url: https://github.com/lilianricaud/formation-professionnelle/blob/master/cc-by-sa.png
+image_url: https://raw.githubusercontent.com/lilianricaud/formation-professionnelle/master/cc-by-sa.png
 licence: CC-BY-SA
 ---
 
