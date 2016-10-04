@@ -4,6 +4,7 @@
 title: Fiche Suivi Stagiaire
 description: Modèle de fiche de suivi des stagiaires formation professionnelle.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
