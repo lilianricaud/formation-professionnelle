@@ -4,6 +4,7 @@
 title: Préconisations pédagogiques
 description: Préconisations de base pour une formation. Beaucoup semblent evidentes quand on les voit, pourtant peu sont appliquées y compris par ceux qui les prèchent. En voici donc une liste à ne pas oublier.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
