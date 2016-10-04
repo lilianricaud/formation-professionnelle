@@ -20,6 +20,7 @@ licence: CC-BY-SA
 - fiche suivi stagaire
 - évaluation de la formation à chaud
 - évaluation de la formation à froid
+- auto-évaluation formateur
 
 ## Obligations
 
@@ -33,7 +34,7 @@ La **convention de formation** : doit être conforme et adressée avec le *prog
 
 **Fiche Biographie** : Nécessité de figurer sur le site web et essentiellement l'organisme de formation a l'obligation d'avoir un dossier par formateurs avec les éléments mentionnés sur la fiche type.
 
-**Evaluation** : à mi parcours si formation longue, et en fin de formation il sera procédé à l'évaluation des acquis et questionnaire de satisfaction des stagiaires à chaud  **(évaluation à chaud**) qui doit etre conservé dans le dossier du formateur. Une **évaluation à froid** devra également etre effectuée entre 4 et 6 mois plus tard. Le formateur doit également faire son auto-évaluation (qui sera conservée dans son dossier)
+**Evaluation** : à mi parcours si formation longue, et en fin de formation il sera procédé à l'évaluation des acquis et questionnaire de satisfaction des stagiaires à chaud  **(évaluation à chaud**) qui doit etre conservé dans le dossier du formateur. Une **évaluation à froid** devra également etre effectuée entre 4 et 6 mois plus tard. Le formateur doit également faire son **auto-évaluation** (qui sera conservée dans son dossier)
 
 Le formateur doit avoir un dossier stagiaire afin de noter ses **observations sur le stagiaire**.
 
