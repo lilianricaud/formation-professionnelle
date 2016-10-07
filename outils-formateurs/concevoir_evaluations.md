@@ -49,3 +49,28 @@ Les résultats sont analysés/lus sur un diagramme en radar
 ## Idées
 
 Interessant de combiner auto-évaluation, évaluation croisée (par binome ou plusieurs pairs) et à la fin confronter à une référence via matrice visuelle type radar via l'usage de papier calque
+
+
+## Matrices
+
+### Graphique en radar
+
+- https://fr.wikipedia.org/wiki/Diagramme_de_Kiviat
+
+### Muscles
+
+Evaluation des "muscles" (= quelque chose que l'on entraine et qui se fortifie)
+
+On peut définir 4 niveau de maturité:
+- ramper
+- marcher
+- courir
+- voler
+
+Interessant d'avoir des pictos pour chaque catégorie
+
+Il pourrait être possible de faire définir au groupe ses propres indicateurs pour les 4 catégories
+
+ source: Eugene Erik Kim
+ 
+ http://fasterthan20.com/collaboration-muscles-and-mindsets/
