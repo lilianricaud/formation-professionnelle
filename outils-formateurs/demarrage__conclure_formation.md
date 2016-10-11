@@ -10,13 +10,14 @@ licence: CC-BY-SA
 -->
 
 
-# Demarrer une formation
+# Démarrer une formation
 
 ## Premières minutes
 - plan
 - durée
 - supports
 - rôle des participants
+- proposer (et afficher au mur) le cadre: confidentialité, bienveillance, authenticité/parler vrai
 
 ## Accroche
 Utiliser une accroche pour créer de l'attention
@@ -34,10 +35,14 @@ Exemple de format de présentation standard/classique pour connaitre le profil e
 
 - Votre nom et structure
 - Vos rôles
-- Vos objectifs pour cette formation
+- Vos objectifs pour cette formation (choix ou imposé ?)
 - Les compétences que vous souhaitez dévelloper
 - Citez deux valeurs personnelles
 - Décrivez une situation ressource
+
+## Temps d'inclusion / Brise glace
+- mise en empathie, laisser ses bagages à l'entrée
+- ex: METEO INTERIEURE
 
 ## Les dernières minutes
 - idée forte
@@ -45,6 +50,7 @@ Exemple de format de présentation standard/classique pour connaitre le profil e
 - Rappel objectif
 - questions ouvertes
 - lien avec activité suivante
+- évaluation à chaud
 
 
 
