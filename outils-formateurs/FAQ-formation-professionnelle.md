@@ -52,4 +52,9 @@ Si un thème attendu est hors sujet et non traitable, l'annoncer très tôt
 -> Essayer de mettre a disposition avec chaque contenu un système d'auto-évaluation qui permettent aux stagiaires d'avoir du feedback par eux-mêmes/ 
 
 
+### Que faire si des personnes refusent de respecter le cadre et perturbent le déroulement de la formation ?
+
+Rappeller le cadre posé au début de la formation. Si non-respect exagéré, contactez le reponsable hierarchique et/ou commanditaires de la formation pour avertir de problèmes et eventuellement faire intervenir auprès des stagiaires non-respectueux. Demander à personne de quitter la formation. 
+
+
 > **Pépite**: Les questionnaires marchent mal, à part les auto-évaluations.
