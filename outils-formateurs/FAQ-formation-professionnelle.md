@@ -56,5 +56,17 @@ Si un thème attendu est hors sujet et non traitable, l'annoncer très tôt
 
 Rappeller le cadre posé au début de la formation. Si non-respect exagéré, contactez le reponsable hierarchique et/ou commanditaires de la formation pour avertir de problèmes et eventuellement faire intervenir auprès des stagiaires non-respectueux. Demander à personne de quitter la formation. 
 
+### Que faire si la formation a été imposée ?
+
+Si possible utilisez la loi des deux pieds dans la cadre.
+
+Risque de terrain miné, si la formation a été imposée, (ex: gestion du stress)
+
+- prendre un temps pour faire sortir les raisons auprès des stagiaires, 
+- demander si dans le contexte imposé, il y a des choses de la formation qui peuvent les interesser et s'appuyer sur ça pour tenter de faire bon usage du temps pour former.
+- demander au stagiaires ce qui peut être remonté aux supérieurs, services RH
+- faire remonter infos aux supérieurs.
+
+
 
 > **Pépite**: Les questionnaires marchent mal, à part les auto-évaluations.
