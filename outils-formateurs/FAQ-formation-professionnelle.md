@@ -34,8 +34,6 @@ Si la formation semble servir de prétexte, on commande une formation "gestion d
 ### Que faire si la formation a lieu sur demande des stagiaires ?
 - Se donner les moyens de bien cerner les attentes d'une montée en compétence; dans quel contexte ? savoirs, savoirs-faire, savoir-être ?
 
-### Que faire si la formation est imposée aux stagiaires ?
-Essayer de bien comprendre pourquoi la formations est imposée (raisons, buts, ...)
 
 ### Que faire si un thème attendu par les stagiaires est hors sujet et non traitable ?
 
@@ -56,9 +54,11 @@ Si un thème attendu est hors sujet et non traitable, l'annoncer très tôt
 
 Rappeller le cadre posé au début de la formation. Si non-respect exagéré, contactez le reponsable hierarchique et/ou commanditaires de la formation pour avertir de problèmes et eventuellement faire intervenir auprès des stagiaires non-respectueux. Demander à personne de quitter la formation. 
 
-### Que faire si la formation a été imposée ?
+### Que faire si la formation est imposée aux stagiaires ?
 
 Risque de terrain miné, si la formation a été imposée, (ex: gestion du stress)
+
+Essayer de bien comprendre pourquoi la formations est imposée (raisons, buts, ...)
 
 Si possible utilisez la loi des deux pieds dans la cadre (possibilité donnée aux gens de partir ou faire ce qu'ils veulent en utilisant leur deux pieds).
 
@@ -69,6 +69,9 @@ Sinon si rsique d'explosion:
 - demander au stagiaires ce qui peut être remonté aux supérieurs, services RH
 - faire remonter infos aux supérieurs.
 
+## Que faire si question dont on ne connait pas la réponse ?
+- Demander au groupe
+- Noter la question et s'engager à répondre plus tard.
 
 
 > **Pépite**: Les questionnaires marchent mal, à part les auto-évaluations.
