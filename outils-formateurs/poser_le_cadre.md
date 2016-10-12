@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Poser le cadre
+description: Pour qu'une formation se déroule bien il est important de poser un cadre au démarrage.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+ > Pour qu'une formation se déroule bien il est important de poser un cadre au démarrage.
+
 ## Poser le cadre
 
 En début de formation, posez un cadre:
