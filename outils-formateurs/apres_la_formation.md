@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Après la formation
+description: Les dernières choses à faire après la fin de formation.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 ## Après la formation
 
 Récupérer si possible après la formation les actions mises en œuvre par les stagiaires, cela permettra de réaliser un réel bilan de l’action de formation.
