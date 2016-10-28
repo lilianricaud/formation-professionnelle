@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Formation inter-entreprises
+description: Quelques astuces pour les tarifs de formation inter-entreprises.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 
 ## Formation inter-entreprises
 
