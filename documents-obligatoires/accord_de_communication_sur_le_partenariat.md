@@ -12,14 +12,14 @@ licence: CC-BY-SA
 
 ACCORD DE COMMUNICATION SUR LE PARTENARIAT
 
-NOM DU CLIENT XXXX-NOM DU FOURNISSEUR DE SERVICE XXXX-[SOCIETE]
+NOM DU CLIENT XXXX-NOM DU FOURNISSEUR DE SERVICE XXXX-[SCAE]
 
 
 Accord entre :
-Le fournisseur :  XXXX – SCOP OZON
+Le fournisseur :  XXXX – [SCAE]
 Le client : XXXXX
 
-Le présent accord permet à XXXXX, le client et XXXXX-SCOP OZON, le fournisseur de service, de communiquer sur leur partenariat.
+Le présent accord permet à XXXXX, le client et XXXXX-[SCAE], le fournisseur de service, de communiquer sur leur partenariat.
 
 Les parties prenantes ci-dessus désignées acceptent réciproquement par la présente : 
 
@@ -45,4 +45,4 @@ Fait en deux exemplaires, à XXXXXX, pour valoir ce que de droit
 Le XX/XX/XXX
 Signature et tampon  	Signature et tampon
 Nom et fonction du représentant	Nom et fonction du représentant
-Nom de la structure – SCOP OZON 	Nom de la structure 
+Nom de la structure – [SCAE] 	Nom de la structure 
