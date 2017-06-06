@@ -14,6 +14,6 @@ licence: CC-BY-SA
 
 
 - Un CV actualisé des formateurs (pour constituer une Cv-thèque comme cela est demandé dans le Datadock)
-- Une attestation renseignée et signée par vous concernant la conformité des locaux que vous utilisez (cette attestation ne vous exemptera pas d'appliquer ce qui est écrit dessus !) 
-- Les attestations d'accord de communication des partenariats
+- Une attestation renseignée et signée par les formateurs concernant la conformité des locaux que vous utilisez (cette attestation ne vous exemptera pas d'appliquer ce qui est écrit dessus !) 
+- Les attestations d'accord de communication des partenariats des formateurs
 - autres ... ?
