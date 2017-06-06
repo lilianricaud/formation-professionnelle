@@ -1,3 +1,18 @@
+
+<!--
+
+---
+title: Attestation de conformité des locaux de formation
+description: modèle d'éléments à indiquer pour prouver la qualité de formateur.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+# ATTESTATION CONFORMITE DES LOCAUX FORMATION
+
+
 Je, soussigné(E) ,  XXXXXXX 	, entrepreneur salarié formateur, au sein de l'organisme de formation [NOM DE L'ORGANISME] détenteur d’un numéro de déclaration [NUMERO] délivré le 25/07/2008 par la Préfecture de Région [REGION], atteste que dans le cadre de la réalisation de mon activité de formation, les locaux utilisés pour les formations en présentiel sont en conformité avec les lois et règlements applicables aux établissements recevant le public concerné et que les prescriptions applicable en matière d'hygiène et de sécurité sur les lieux de formation sont respectées.
 
 Cas n°1 : Formations réalisées dans une salle de formation louée chez un prestataire : 
