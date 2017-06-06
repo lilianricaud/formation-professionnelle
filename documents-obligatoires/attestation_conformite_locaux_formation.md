@@ -3,7 +3,7 @@
 
 ---
 title: Attestation de conformité des locaux de formation
-description: modèle d'éléments à indiquer pour prouver la qualité de formateur.
+description: Attestation de conformité des locaux de formation à signer par le formateur.
 image_url: 
 licence: CC-BY-SA
 ---
