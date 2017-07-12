@@ -32,6 +32,10 @@ https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
 Des manuels complets sur différents sujets liés au libre (produire du code, logiciel pour les assos, mais aussi thermodynamique!)
 https://framabook.org/category/manuels/
 
+### Framatube
+Vidéos de conférences, tutoriels
+https://framatube.org/
+
 ### Outils-Réseaux/ Animacoop
 Animation de réseaux coopératifs et outils numériques
 - http://outils-reseaux.org/ContenuSFormation
