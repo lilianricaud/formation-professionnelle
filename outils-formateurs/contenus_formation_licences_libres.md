@@ -27,7 +27,7 @@ Wikiversité est un projet communautaire visant à produire et diffuser des docu
 https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
 
 ### Manuels Framasoft
-
+Des manuels complets sur différents sujets liés au libre (produire du code, logiciel pour les assos, mais aussi thermodynamique!)
 https://framabook.org/category/manuels/
 
 ### Outils-Réseaux/ Animacoop
