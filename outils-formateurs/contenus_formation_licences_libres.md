@@ -13,7 +13,9 @@ licence: CC-BY-SA
 
 # Formateurs ou collectifs produisant des contenus de formation libres:
     
-Une liste de ressources pédagogiques librement réutilisables pour formateurs ou enseignants. Compléter en indiquant brièvement l'objet et un lien vers les ressources
+Une liste de ressources pédagogiques librement réutilisables pour formateurs ou enseignants. Compléter le pad en indiquant brièvement l'objet et un lien vers les ressources
+
+https://annuel2.framapad.org/p/contenus-formation-libre
 
 ### Sesamath
 
