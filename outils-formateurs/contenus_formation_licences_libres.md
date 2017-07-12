@@ -1,4 +1,17 @@
-## Formateurs ou collectifs produisant des contenus de formation libres:
+
+<!--
+
+---
+title: Contenus de formation sous licence libre
+description: Une liste de ressources pédagogiques librement réutilisables pour formateurs ou enseignants.
+licence: CC-BY-SA
+---
+
+-->
+
+
+
+# Formateurs ou collectifs produisant des contenus de formation libres:
     
 Une liste de ressources pédagogiques librement réutilisables pour formateurs ou enseignants. Compléter en indiquant brièvement l'objet et un lien vers les ressources
 
@@ -12,6 +25,10 @@ http://www.sesamath.net/
 Wikiversité est un projet communautaire visant à produire et diffuser des documents pédagogiques (cours, exercices, travaux dirigés, travaux pratiques, documents vidéo et audio, etc.) dans le but de permettre à chacun d'apprendre ou réapprendre, de façon la plus autonome possible. Les documents proposés couvrent plusieurs niveaux et concernent des sujets variés, regroupés par thèmes dans les facultés présentées ci-contres.
 
 https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
+
+### Manuels Framasoft
+
+https://framabook.org/category/manuels/
 
 ### Outils-Réseaux/ Animacoop
 Animation de réseaux coopératifs et outils numériques
@@ -48,6 +65,14 @@ Vidéos inspirante d'actions positives
 ces infographies illustrent simplement certains concepts proches de nos domaines d’intérêt (monnaies complémentaires, coopérative d'activités et d'emplois, licences creative commons, ...) et certain-e-s d'entre vous auront peut être envie de s'en servir pour leur formations.
 
 - http://lesecolohumanistes.fr/infographies/
+
+### Jean-Michel Cornu
+
+Coopération, intelligence collective
+- http://www.cornu.eu.org/texts/cooperation
+
+Vidéos animation de groupe:
+- https://www.youtube.com/user/jmichelcornu/videos
 
 ### Pop up
 
