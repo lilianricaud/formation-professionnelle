@@ -36,6 +36,8 @@ Animation de réseaux coopératifs et outils numériques
 ### CoopTic
 formation de formateurs à l'animation de résesau coopératifs et outils numériques:
 - http://ebook.coop-tic.eu/francais/wakka.php?wiki=PagePrincipale
+- https://coop-site.net/cooptic7/?PagePrincipale
+
 
 ### Percolab
 Exemples d'approches d'Intelligence collective, facilitation et gouvernance partagée.
@@ -72,11 +74,6 @@ Coopération, intelligence collective
 Vidéos animation de groupe:
 - https://www.youtube.com/user/jmichelcornu/videos
 
-### Pop up
-
-Collectif de formateurs lillois, co-construction, innovation sociale, tiers-lieu
-
-https://github.com/popuplille
 
 ### Cresol
 
